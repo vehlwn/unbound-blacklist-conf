@@ -2,6 +2,7 @@ adcolony.com
 amplitude.com
 app-measurement.com
 applovin.com
+applvn.com
 appmetrica.yandex.net
 appsflyer.com
 crashlytics.com
@@ -17,5 +18,6 @@ mobile.webvisor.com
 networksdk.ssacdn.com
 startup.mobile.yandex.net
 supersonicads.com
+unityads.unity3d.com
 vungle.com
 yadro.ru
