@@ -17,6 +17,7 @@ gvt2.com
 mc.yandex.ru
 mobile.webvisor.com
 networksdk.ssacdn.com
+redirect.appmetrica.yandex.com
 startup.mobile.yandex.net
 supersonicads.com
 tns-counter.ru
